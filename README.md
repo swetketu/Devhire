@@ -1,5 +1,12 @@
 # DevHire 🚀
 
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4-green)
+![MySQL](https://img.shields.io/badge/MySQL-8-blue)
+![Redis](https://img.shields.io/badge/Redis-cache-red)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-event--driven-black)
+![Maven](https://img.shields.io/badge/Maven-build-red)
+
 DevHire is a backend recruitment platform built with Spring Boot that connects candidates and recruiters through a secure job application workflow.
 
 ## Features
