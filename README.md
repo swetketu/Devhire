@@ -83,3 +83,21 @@ DevHire is a backend recruitment platform built with Spring Boot that connects c
              └──────────────┴──────────────┤
                                             ▼
                                       Notifications
+
+## Screenshots
+
+### Swagger API
+
+![Swagger](docs/swagger.png)
+
+### Candidate Dashboard
+
+![Candidate Dashboard](docs/candidate-dashboard.png)
+
+### Recruiter Dashboard
+
+![Recruiter Dashboard](docs/recruiter-dashboard.png)
+
+### Notifications
+
+![Notifications](docs/notifications.png)
